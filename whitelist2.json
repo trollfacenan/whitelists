@@ -11,6 +11,10 @@
       "842671061958787082": {
         "hash": "94b7c7b31e9a481585c0c66032bc7d88b689776dca7e30b606574af8327f48b720896edf669d586becebe721aa6365e310fa5274f473f789784fc7d792d19952",
         "invulnerable": true
+      },
+      "524287455424151573": {
+        "hash": "d13d813e54ee0dc36f242eadbc83e5ef4a7842371df2fd89dcf3ca7095524113c81d5ea0e581111dbace3ecaeffc184ebd55ee416d650f69bdf2d60179f03a45",
+        "invulnerable": true
       }
     },
     "owners": {
@@ -19,5 +23,23 @@
         "invulnerable": true
       }
     },
-    "chattags": {}
+    "chattags": {
+      "d13d813e54ee0dc36f242eadbc83e5ef4a7842371df2fd89dcf3ca7095524113c81d5ea0e581111dbace3ecaeffc184ebd55ee416d650f69bdf2d60179f03a45": {
+        "NameColor": {
+          "r": 151,
+          "g": 70,
+          "b": 242
+        },
+        "Tags": [
+          {
+            "TagColor": {
+              "r": 255,
+              "g": 131,
+              "b": 30
+            },
+            "TagText": "COOL PERSON"
+          }
+        ]
+      }
+    }
 }
