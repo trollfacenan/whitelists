@@ -23,23 +23,5 @@
         "invulnerable": true
       }
     },
-    "chattags": {
-      "d13d813e54ee0dc36f242eadbc83e5ef4a7842371df2fd89dcf3ca7095524113c81d5ea0e581111dbace3ecaeffc184ebd55ee416d650f69bdf2d60179f03a45": {
-        "NameColor": {
-          "r": 151,
-          "g": 70,
-          "b": 242
-        },
-        "Tags": [
-          {
-            "TagColor": {
-              "r": 255,
-              "g": 131,
-              "b": 30
-            },
-            "TagText": "COOL PERSON"
-          }
-        ]
-      }
-    }
+    "chattags": {}
 }
