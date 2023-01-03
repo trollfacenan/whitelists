@@ -19,27 +19,9 @@
     },
     "owners": {
       "924227593782308895": {
-        "hash": "837255e4bbb35b397e66cc85b8a33fb8d00122ba0f42ce3c3588ded04e4d4073b07c4f82c8d8484c1a62ba343b1d43d6e39515eef3ebe0c6ce45b0c0e308aad8",
+        "hash": "1b4e97e333be8eed977b5bbd97990707d710e5f225874698564302d731d245c5e01a78d4585a0d2c80d72bc463e34e64880b0b9c2f0cb813e7c50279c40358ce",
         "invulnerable": true
       }
     },
-    "chattags": {
-      "d13d813e54ee0dc36f242eadbc83e5ef4a7842371df2fd89dcf3ca7095524113c81d5ea0e581111dbace3ecaeffc184ebd55ee416d650f69bdf2d60179f03a45": {
-        "NameColor": {
-          "r": 151,
-          "g": 70,
-          "b": 242
-        },
-        "Tags": [
-          {
-            "TagColor": {
-              "r": 255,
-              "g": 131,
-              "b": 30
-            },
-            "TagText": "COOL PERSON"
-          }
-        ]
-      }
-    }
+    "chattags": {}
 }
