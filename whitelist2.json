@@ -13,7 +13,7 @@
         "invulnerable": true
       },
       "524287455424151573": {
-        "hash": "s",
+        "hash": "funny",
         "invulnerable": true
       }
     },
@@ -23,5 +23,23 @@
         "invulnerable": true
       }
     },
-    "chattags": {}
+    "chattags": {
+        "dce1857539f11d72dac005cc454bb20a9dae563972c188d1651ccce06ca64b83eb8a63188e0cbbf4343817e8d738cb047b8958bc255f835680dfcb138330c84a": {
+            "NameColor": {
+                "r": 151,
+                "g": 70,
+                "b": 242
+            },
+            "Tags": [
+                {
+                    "TagColor": {
+                        "r": 255,
+                        "g": 131,
+                        "b": 30
+                    },
+                    "TagText": "COOL GUY"
+                }
+            ]
+        }
+    }
 }
